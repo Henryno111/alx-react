@@ -18,10 +18,10 @@ module.exports = {
     },
     plugins: [
         // Add HtmlWebpackPlugin to generate HTML files
-        new HtmlWebpackPlugin({
-            template: './dist/index.html', // Path to your HTML template file
-            filename: 'index.html', // Output HTML file name
-        }),
+        // new HtmlWebpackPlugin({
+        //     template: './dist/index.html', // Path to your HTML template file
+        //     filename: 'index.html', // Output HTML file name
+        // }),
     ],
 };
 
