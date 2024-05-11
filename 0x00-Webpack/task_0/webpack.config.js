@@ -2,9 +2,10 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: './dist/main.js',
+    mode: 'development',
+    entry: './src/index.js',
     output: {
-        filename: 'bundle.js',
+        filename: 'main.js',
         path: path.resolve(__dirname, 'dist'),
     },
     module: {
@@ -18,7 +19,7 @@ module.exports = {
     plugins: [
         // Add HtmlWebpackPlugin to generate HTML files
         new HtmlWebpackPlugin({
-            template: './src/index.html', // Path to your HTML template file
+            template: './dist/index.html', // Path to your HTML template file
             filename: 'index.html', // Output HTML file name
         }),
     ],
