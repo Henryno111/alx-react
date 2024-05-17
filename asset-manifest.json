@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alx-react/0x01-react_intro/task_3/dashboard/static/css/main.39e81778.css",
-    "main.js": "/alx-react/0x01-react_intro/task_3/dashboard/static/js/main.44e2307c.js",
-    "static/media/holbert_logo.jpg": "/alx-react/0x01-react_intro/task_3/dashboard/static/media/holbert_logo.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/alx-react/0x01-react_intro/task_3/dashboard/index.html",
-    "main.39e81778.css.map": "/alx-react/0x01-react_intro/task_3/dashboard/static/css/main.39e81778.css.map",
-    "main.44e2307c.js.map": "/alx-react/0x01-react_intro/task_3/dashboard/static/js/main.44e2307c.js.map"
+    "main.css": "/alx-react/0x01-react_intro/task_3/static/css/main.39e81778.css",
+    "main.js": "/alx-react/0x01-react_intro/task_3/static/js/main.f27403b1.js",
+    "static/media/holbert_logo.jpg": "/alx-react/0x01-react_intro/task_3/static/media/holbert_logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/0x01-react_intro/task_3/index.html",
+    "main.39e81778.css.map": "/alx-react/0x01-react_intro/task_3/static/css/main.39e81778.css.map",
+    "main.f27403b1.js.map": "/alx-react/0x01-react_intro/task_3/static/js/main.f27403b1.js.map"
   },
   "entrypoints": [
     "static/css/main.39e81778.css",
-    "static/js/main.44e2307c.js"
+    "static/js/main.f27403b1.js"
   ]
 }
