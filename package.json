@@ -1,0 +1,20 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "This project is an introductory project for learning React. It was created by Henry Agukwe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Henryno111/alx-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henryno111/alx-react/issues"
+  },
+  "homepage": "https://github.com/Henryno111/alx-react#readme"
+}
