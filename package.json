@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Henryno111/alx-react/issues"
   },
-  "homepage": "https://github.com/Henryno111/alx-react"
+  "homepage": "https://github.com/Henryno111/alx-react",
+  "dependencies": {
+    "aphrodite": "^2.4.0"
+  }
 }
